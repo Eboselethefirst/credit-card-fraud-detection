@@ -1,26 +1,52 @@
-# credit-card-fraud-detection
-Data Cleaning, Analysis &amp; Visualization of Credit Card Fraud Transactions using Python (Pandas, Numpy, Matplotlib)
-# Credit Card Fraud Detection (Data Cleaning & Analysis)
+# Credit Card Fraud Detection (Data Cleaning Project)
 
-This project focuses on cleaning, analyzing, and visualizing a credit card fraud dataset.  
-It highlights the severe imbalance between fraudulent and non-fraudulent transactions.
+## 📌 Project Overview
+This project focuses on **exploring and cleaning a credit card fraud dataset**.  
+The dataset contains anonymized transaction details with labels indicating whether a transaction was fraudulent.  
 
-## 🔹 Tools & Libraries
-- Python (Pandas, Numpy, Matplotlib)
-- Google Colab
-- Dataset stored on Google Drive
-
-## 🔹 Steps Performed
-1. Loaded dataset into Google Colab
-2. Removed duplicates and checked for missing values
-3. Summarized fraud vs. non-fraud counts
-4. Visualized fraud distribution (bar chart + pie chart)
-5. Saved cleaned dataset for future machine learning use
-
-## 🔹 Results
-- Fraudulent transactions are less than 1% of the dataset
-- Clean dataset saved as `Clean_creditcard.csv` for modeling
+The goal is to prepare the dataset for further analysis, build initial **visual insights**, and lay the groundwork for future machine learning models.
 
 ---
 
-📌 Next Steps: Train machine learning models (Logistic Regression, Random Forest, etc.) on this cleaned dataset.
+## 📊 Key Steps
+- **Data Cleaning**  
+  - Loaded and explored dataset using **Pandas/Numpy**  
+  - Checked missing values and data distributions  
+  - Saved a cleaned version of the dataset  
+
+- **Data Visualization**  
+  - Fraud vs Non-Fraud **Bar Chart**  
+  - Fraud vs Non-Fraud **Pie Chart**
+
+- **Outputs**  
+  - `Clean_creditcard.csv` → Cleaned dataset  
+  - `fraud_bar.png` → Bar chart  
+  - `fraud_pie.png` → Pie chart  
+
+---
+
+## 📸 Visualizations
+
+### Fraud vs Non-Fraud (Bar Chart)
+![Fraud Bar](fraud_bar.png)
+
+### Fraud vs Non-Fraud (Pie Chart)
+![Fraud Pie](fraud_pie.png)
+
+---
+
+## 🚀 Tools Used
+- Python (Pandas, Numpy, Matplotlib)  
+- Google Colab  
+- GitHub for project hosting  
+
+---
+
+## 🔮 Next Steps
+- Build **interactive dashboards** with Tableau/Power BI  
+- Train a **Machine Learning Model** for fraud detection  
+- Explore applications in **finance and petroleum sectors**  
+
+---
+
+## 📂 Repository Structure
