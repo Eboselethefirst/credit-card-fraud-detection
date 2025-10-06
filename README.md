@@ -19,7 +19,7 @@ The goal is to prepare the dataset for further analysis, build initial **visual 
   - Fraud vs Non-Fraud **Pie Chart**
 
 - **Outputs**  
-  - `Clean_creditcard.csv` → Cleaned dataset  
+  - `Cleaned_ccfraud.csv` → Cleaned dataset  
   - `fraud_bar.png` → Bar chart  
   - `fraud_pie.png` → Pie chart  
 
