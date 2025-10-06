@@ -50,3 +50,9 @@ The goal is to prepare the dataset for further analysis, build initial **visual 
 ---
 
 ## 📂 Repository Structure
+creditcard-fraud-analysis/
+│── Untitled1 (1).ipynb   # Jupyter Notebook  
+│── Cleaned_ccfraud.csv      # Cleaned dataset  
+│── fraud_bar.png             # Fraud vs Non-Fraud bar chart  
+│── fraud_pie.png             # Fraud vs Non-Fraud pie chart  
+│── README.md                 # Project overview (this file)  
