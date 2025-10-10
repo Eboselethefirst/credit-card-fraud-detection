@@ -54,7 +54,7 @@ creditcard-fraud-analysis/
 
 │── Untitled1 (1).ipynb   # Jupyter Notebook  
 │── Cleaned_ccfraud.csv      # Cleaned dataset  
-│── creditcard_fraud_dashboard.pbix  # Power BI dashboard 
+│── creditcard_fraud_dashboard.pbix # Power BI dashboard                                                                                                           
 │── fraud_bar.png             # Fraud vs Non-Fraud bar chart  
 │── fraud_pie.png             # Fraud vs Non-Fraud pie chart  
 │── README.md                 # Project overview (this file)  
