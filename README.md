@@ -54,6 +54,16 @@ creditcard-fraud-analysis/
 
 │── Untitled1 (1).ipynb   # Jupyter Notebook  
 │── Cleaned_ccfraud.csv      # Cleaned dataset  
+│── creditcard_fraud_dashboard.pbix  # Power BI dashboard
 │── fraud_bar.png             # Fraud vs Non-Fraud bar chart  
 │── fraud_pie.png             # Fraud vs Non-Fraud pie chart  
 │── README.md                 # Project overview (this file)  
+
+
+
+
+## Power BI Dashboard
+This Power BI report visualizes fraud vs non-fraud transactions using slicers, bar charts, and pie charts.
+It allows users to filter by transaction class and view insights interactively.
+
+**File:** `creditcard_fraud_dashboard.pbix`
